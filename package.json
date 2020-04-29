@@ -1,0 +1,12 @@
+{
+  "name": "begin-google-oauth",
+  "version": "1.0.0",
+  "description": "A Begin example app with Google OAuth 2.0",
+  "scripts": {
+    "start": "sandbox"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@architect/sandbox": "^1.5.8"
+  }
+}

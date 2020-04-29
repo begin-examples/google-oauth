@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@architect/functions": "^3.7.6",
+    "googleapis": "^47.0.0"
+  }
+}
