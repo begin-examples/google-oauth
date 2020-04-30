@@ -1,4 +1,4 @@
-# Serverless Authentication with Google OAuth 2.0 and Node.js
+<img src="https://static.begin.app/google-oauth/readme-banner.png" width="1292">
 
 $BADGE
 
