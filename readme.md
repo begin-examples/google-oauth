@@ -1,4 +1,4 @@
-<img src="https://static.begin.app/google-oauth/readme-banner.png" width="1292">
+<img src="https://static.begin.app/google-oauth/readme-banner.png" width="983">
 
 $BADGE
 
