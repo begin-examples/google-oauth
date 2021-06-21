@@ -7,6 +7,6 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "@architect/sandbox": "^1.5.8"
+    "@architect/sandbox": "^3.7.0"
   }
 }
