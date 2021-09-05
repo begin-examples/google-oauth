@@ -1,5 +1,6 @@
 const { google } = require('googleapis')
 const { http } = require('@architect/functions')
+const asap = require('@architect/asap')
 
 async function authorized(req) {
   if (req.session.account) {
@@ -34,7 +35,7 @@ async function unauthorized(req) {
     }
   }
   else {
-    return http.proxy.public({spa: false})(req)
+    return asap({spa: false})(req)
   }
 }
 

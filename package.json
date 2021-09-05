@@ -7,6 +7,10 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "@architect/sandbox": "^1.5.8"
+    "@architect/asap": "^4.0.0",
+    "@architect/functions": "^4.0.0",
+    "@architect/sandbox": "^4.0.1",
+    "googleapis": "^85.0.0",
+    "tiny-json-http": "^7.3.0"
   }
 }
