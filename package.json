@@ -7,7 +7,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "@architect/asap": "^4.0.0",
+    "@architect/asap": "^4.1.0",
     "@architect/functions": "^4.0.0",
     "@architect/sandbox": "^4.0.4",
     "googleapis": "^85.0.0",
