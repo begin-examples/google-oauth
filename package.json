@@ -8,7 +8,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@architect/asap": "^4.1.0",
-    "@architect/functions": "^4.0.0",
+    "@architect/functions": "^4.1.1",
     "@architect/sandbox": "^4.4.0",
     "googleapis": "^88.2.0",
     "tiny-json-http": "^7.3.1"
