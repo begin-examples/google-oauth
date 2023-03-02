@@ -11,6 +11,6 @@
     "@architect/functions": "^4.1.1",
     "@architect/sandbox": "^4.4.2",
     "googleapis": "^88.2.0",
-    "tiny-json-http": "^7.4.2"
+    "tiny-json-http": "^7.5.0"
   }
 }
